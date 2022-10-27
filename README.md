@@ -14,7 +14,7 @@
       Solution
     </a>
     <span> | </span>
-    <a href="https://github.com/jricardocam/DevChallange-1.404NotFound/blob/main/images/SS.jpg">
+    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
       Challenge
     </a>
   </h3>
@@ -33,13 +33,16 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://github.com/jricardocam/DevChallange-1.404NotFound/blob/main/images/SS.jpg)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
+A Basic 404 Not Found Page
 - What was your experience?
+I can use my knowledge
 - What have you learned/improved?
+I improved my responsive design skills
 - Your wisdom? :)
 
 ### Built With
@@ -58,6 +61,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- GitHub [@jricardocam](https://github.com/jricardocam)
+- Twitter [@JoseRicardoCam](https://twitter.com/JoseRicardoCam)

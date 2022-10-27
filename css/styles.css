@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+
+h2{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 2.3rem;
+    margin-top: 2rem;
+    margin-left: 7.7rem;
+}
+
+.contenido{
+    display: flex;
+    flex-direction: row;
+    margin-top: 5rem;
+}
+.foto img{
+    width: 40rem;
+    height: 37rem;
+    margin-left: 7.7rem;
+    margin-top: 4rem;
+
+}
+
+.derecha{
+    margin-left: 8rem;
+    margin-top: 2.65rem;
+    margin-right: 11.9rem;
+}
+
+.derecha h1{
+    font-family: monospace;
+    font-weight: 700;
+    font-size: 6.4rem;
+    margin-bottom: 2rem;
+}
+
+.derecha p{
+    width: 36rem;
+    font-family: monospace;
+    font-size: 2.4rem;
+    font-weight: 400;
+    line-height: 3.554rem;
+    margin-bottom: 6.4rem;
+}
+
+.derecha button{
+    width: 20rem;
+    height: 6.5rem;
+    font-family: monospace;
+    font-size: 1.4rem;
+    font-weight: 400;
+    padding: 2.4rem 3rem;
+    background-color: #333333;
+    color: #fff;
+    border: none;
+}
+
+.pie{
+    display: flex;
+    justify-content: center;
+    margin-top: 10rem;
+}
+
+.pie h3{
+
+    font-size: 1.4rem;
+    color: #BDBDBD;
+    margin-bottom: 2.4rem;
+}
+
+.pie h3 span{
+    text-decoration: underline;
+}
+
+@media (max-width: 900px) {
+    .contenido{
+        display: flex;
+        flex-wrap: wrap;
+        margin-top: 5rem;
+        justify-content: center;
+        align-items: center;
+    }
+}

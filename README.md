@@ -1,4 +1,4 @@
-`<h1 align="center">`{404 NotFound}`</h1>`
+# 404 NotFound
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -10,11 +10,11 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/jricardocam/DevChallange-1.404NotFound">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
+    <a href="https://github.com/jricardocam/DevChallange-1.404NotFound/blob/main/images/SS.jpg">
       Challenge
     </a>
   </h3>
